@@ -1,0 +1,119 @@
+body {
+  background: #ddd;
+  margin: 1rem;
+  padding: 1rem;
+  max-width: 500px;
+  margin: 2rem auto;
+  font-family: "Open Sans", sans-serif;
+}
+
+nav {
+	border-bottom: 2px solid orange;
+}
+
+ol {
+	padding-left: 0;
+}
+
+.crumb {
+	margin-right: 2em;
+	display: inline;
+}
+
+a {
+	color: orange;
+}
+
+a:visited {
+	color: crimson;
+}
+
+
+input {
+	display: block;
+}
+
+img {
+	max-width: 300px;
+}
+
+.howHeard {
+	display: inline-block;
+	margin-left: 5px;
+}
+
+.bigYellow {
+	font-size: large;
+	background-color: yellow;
+	cursor: pointer;
+}
+
+#ducklogo {
+	border-radius: 15%;
+	display:block;
+	margin: 0 auto;
+}
+
+#hello {
+	font-size: 20px;
+	font-style: oblique;
+	text-align: center;
+}
+
+#rubber {
+	text-align: center;
+}
+
+.photosSA {
+	border-radius: 20%;
+	height: 200px;
+	width: 600px;
+}
+
+.flex-container {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+}
+
+.imgInterests {
+	max-width: 20%;
+	height: auto;
+
+}
+
+.elementsProfile{
+	text-align: center;
+	color:mediumorchid;
+}
+
+li {
+	margin-bottom: 5px;
+}
+
+footer {
+	background-color: lightblue;
+	text-align: center;
+	padding: 20px;
+}
+
+#linkedinBtn {
+	background-color: #0E76A8;
+	color:whitesmoke;
+	padding: 7px;
+	cursor: pointer;
+}
+
+article {
+	text-align: justify;
+}
+
+#duckJS {
+	display: block;
+	margin: 0 auto;
+	border-radius: 50%;
+}
+
+h1 {
+	text-align: center;
+}
